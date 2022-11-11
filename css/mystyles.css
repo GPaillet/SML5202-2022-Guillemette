@@ -1,5 +1,4 @@
 .myBanner {
-  background: #6c757d;
-  color: black;
   background-image: linear-gradient(to left, #6c757d, #ced8e1);
+  color: black;
 }
