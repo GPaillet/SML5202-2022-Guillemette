@@ -2,3 +2,17 @@
   background-image: linear-gradient(to left, #198754, #9ddcbf);
   color: white;
 }
+
+.footer {
+    background-color: #198754;
+    color: white;
+    font-size:90%;
+}
+
+.footer a {
+  color: #9ddcbf;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;	
